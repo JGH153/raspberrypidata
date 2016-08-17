@@ -30,3 +30,13 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrad
 http://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do
 ```
+
+# All devices on subnet
+```
+arp -a
+```
+
+# Get local ip adress
+```
+ipconfig 
+```
