@@ -13,6 +13,11 @@ nmap vg.no
 df
 ```
 
+## Free space in GB
+```
+df -BG
+```
+
 # Restart apatche
 ```
 sudo service apache2 restart
@@ -38,5 +43,5 @@ arp -a
 
 # Get local ip adress
 ```
-ipconfig 
+ipconfig
 ```
