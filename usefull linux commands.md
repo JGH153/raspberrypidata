@@ -45,3 +45,8 @@ arp -a
 ```
 ipconfig
 ```
+
+# Sett full premission recursivly
+```
+sudo chmod -R 777 /var/www/moodle
+```
