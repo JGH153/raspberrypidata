@@ -50,3 +50,14 @@ ipconfig
 ```
 sudo chmod -R 777 /var/www/moodle
 ```
+
+# Get GPU temp 
+```
+vcgencmd measure_temp
+```
+
+# Get CPU temp 
+```
+cpu=$(</sys/class/thermal/thermal_zone0/temp)
+echo "$((cpu/1000)) c"
+```
