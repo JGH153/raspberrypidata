@@ -28,3 +28,9 @@ sudo git clone git://git.moodle.org/moodle.git
 OR
 sudo git clone -b MOODLE_31_STABLE https://github.com/TheGlobalATeam/moodle.git
 ```
+
+# Installing own plugin post install
+```
+cd moodle/blocks
+sudo git clone https://github.com/TheGlobalATeam/moodle-blockplugn-birdidnews.git birdidnews
+```
