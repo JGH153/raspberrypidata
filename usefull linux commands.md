@@ -71,3 +71,13 @@ mkdir moodle
 ```
 mv moodle/* .
 ```
+
+# List all video recording devices
+```
+ls -ltrh /dev/video*
+```
+
+# List all audio recording devices
+```
+arecord -l
+```
