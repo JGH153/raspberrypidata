@@ -34,3 +34,18 @@ sudo git clone -b MOODLE_31_STABLE https://github.com/TheGlobalATeam/moodle.git
 cd moodle/blocks
 sudo git clone https://github.com/TheGlobalATeam/moodle-blockplugn-birdidnews.git birdidnews
 ```
+
+# Zip and unzip
+```
+sudo apt-get install zip unzip
+```
+
+# SDKman
+```
+curl -s "https://get.sdkman.io" | bash
+```
+
+# Gradle (remember to check for newer versions)
+```
+sdk install gradle 3.4
+```
