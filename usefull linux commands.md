@@ -34,6 +34,9 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get dist-upgrade
 http://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do
+
+apt full-upgrade performs the same function as apt-get dist-upgrade.
+https://askubuntu.com/questions/770135/apt-full-upgrade-versus-apt-get-dist-upgrade
 ```
 
 # All devices on subnet
