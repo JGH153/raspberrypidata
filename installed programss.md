@@ -49,3 +49,10 @@ curl -s "https://get.sdkman.io" | bash
 ```
 sdk install gradle 3.4
 ```
+
+# Nodejs v 6.x
+```
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs 
+sudo apt-get install -y build-essential
+```
