@@ -32,7 +32,7 @@ sudo service apache2 reload
 ```
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get dist-upgrad
+sudo apt-get dist-upgrade
 http://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do
 ```
 
